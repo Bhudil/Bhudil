@@ -1,4 +1,4 @@
-![logo](https://dribbble.com/shots/5487982-Developers-Gif?utm_source=Clipboard_Shot&utm_campaign=teckartist&utm_content=Developers%20Gif&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=teckartist&utm_content=Developers%20Gif&utm_medium=Social_Share)
+![logo]((https://github.com/Bhudil/Bhudil/blob/main/giphy.gif))
 
 <!-- Intro -->
 <p align="center">
@@ -76,7 +76,7 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhudil&repo=Sentiment_Bot&theme=radical" alt="Sentiment Analysis Chatbot" />
 </a>
 <a href="https://github.com/Bhudil/Ham-Spam">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhudil&repo=Ham-Spam&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhudil&repo=Ham-Spam&theme=radical" alt="Email Ham-Spam Detection System" />
 </a>
 <a href="https://github.com/Bhudil/TxtSumm">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhudil&repo=TxtSumm&theme=radical" alt="Text Summarization Tool" />
