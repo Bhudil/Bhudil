@@ -1,4 +1,4 @@
-![logo]((https://github.com/Bhudil/Bhudil/blob/main/giphy.gif))
+![logo](https://github.com/Bhudil/Bhudil/blob/main/giphy.gif)
 
 <!-- Intro -->
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <!-- Coder GIF -->
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3079099-Coding-coding-coding?utm_source=Clipboard_Shot&utm_campaign=elenmay&utm_content=Coding...coding..coding&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=elenmay&utm_content=Coding...coding..coding&utm_medium=Social_Share">
+<img align="right" alt="Coding" width="400" src="https://github.com/Bhudil/Bhudil/blob/main/giphy%20(2).gif">
 
 
 <!-- About -->
@@ -43,7 +43,6 @@
 <p align="center">⚙️Languages and Tools⚙️</p>
 <p align="center">
 <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_256x256.png" alt="cpp" width="50" height="50"/> &nbsp;
-<img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_256x256.png" alt="java" width="50" height="50"/> &nbsp;
 <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_256x256.png" alt="python" width="50" height="50"/> &nbsp;
 <img src = "https://w7.pngwing.com/pngs/525/959/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-text-trademark-logo.png" alt="sql" width="60" height="50"/> &nbsp;
 <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpZJ3P4FMOFwSm_1Z63tWuZR9czntd7cDqIQ&usqp=CAU" alt="an" width="50" height="50"/> &nbsp; &nbsp; &nbsp;
