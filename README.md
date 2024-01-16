@@ -13,7 +13,7 @@
 </p>
 
 <!-- Coder GIF -->
-<img align="right" alt="Coding" width="400" src="https://github.com/Bhudil/Bhudil/blob/main/giphy%20(4).gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/Bhudil/Bhudil/blob/main/giphy%20(1).gif">
 
 <!-- About -->
 <p>
