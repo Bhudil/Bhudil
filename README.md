@@ -9,7 +9,7 @@
 
 <!-- Typing About -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=👨‍💻;Welcome+to+my+GitHub+Profile!;Learning!;Exploring!;Upgrading!;😎&font=Fira%20Code&center=true&width=390&height=60&duration=3000&pause=1500">
+  <img src="https://readme-typing-svg.demolab.com/?lines=👨‍💻;Welcome+to+my+Profile!;Learning!;Exploring!;Improving!;😎&font=Fira%20Code&center=true&width=390&height=60&duration=3000&pause=1500">
 </p>
 
 <!-- Coder GIF -->
@@ -49,7 +49,7 @@
 <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpZJ3P4FMOFwSm_1Z63tWuZR9czntd7cDqIQ&usqp=CAU" alt="an" width="50" height="50"/> &nbsp; &nbsp; &nbsp;
 <img src = "https://yt3.googleusercontent.com/_q52i8bUAEvcb7JR4e-eNTv23y2A_wg5sCz0NC0GrGtcw1CRMWJSOPVHUDh_bngD0q4gMvVeoA=s900-c-k-c0x00ffffff-no-rj" alt="vsc" width="50" height="50"/>
 <img src = "https://jupyter.org/assets/share.png" alt="jn" width="90" height="50"/>
-<p align="center"> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center"> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 </p>
 <br>
 
@@ -70,7 +70,6 @@
 <p align="center">📖Repositories and Projects📖</p>
 <p align="center">
 <a href="https://github.com/Bhudil/Instruments_Classifier ">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhudil&repo=Instruments_Classifier&theme=radical" alt="Instruments Image Classification System" />
 </a>
 <a href="https://github.com/Bhudil/Sentiment_Bot">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhudil&repo=Sentiment_Bot&theme=radical" alt="Sentiment Analysis Chatbot" />
