@@ -15,6 +15,8 @@
 <!-- Coder GIF -->
 <img align="right" alt="Coding" width="400" src="https://github.com/Bhudil/Bhudil/blob/main/giphy%20(1).gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bhudil&label=Profile%20Views&color=blue&style=flat" alt="Profile-Views" /> </p>
+
 <!-- About -->
 <p>
   
