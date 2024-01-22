@@ -1,5 +1,5 @@
 
-<img align="center" alt="logo" width="900" src="https://github.com/Bhudil/Bhudil/blob/main/giphy.gif">
+<img align="center" alt="logo" width="700" src="https://github.com/Bhudil/Bhudil/blob/main/giphy.gif">
 
 <!-- Intro -->
 <p align="center">
