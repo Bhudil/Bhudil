@@ -70,14 +70,14 @@
 <!-- Repositories and Projects -->
 <p align="center">📖Repositories and Projects📖</p>
 <p align="center">
-<a href="https://github.com/Bhudil/Instruments_Classifier ">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhudil&repo=Instruments_Classifier&theme=tokyonight" alt="Instruments Image Classification System" />
+<a href="https://github.com/Bhudil/Live_Emo_Det">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhudil&repo=Live_Emo_Det&theme=tokyonight" alt="Live-Feed Emotion Detection" />
 </a>
 <a href="https://github.com/Bhudil/Sentiment_Bot">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhudil&repo=Sentiment_Bot&theme=tokyonight" alt="Sentiment Analysis Chatbot" />
 </a>
-<a href="https://github.com/Bhudil/Ham-Spam">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhudil&repo=Ham-Spam&theme=tokyonight" alt="Email Ham-Spam Detection System" />
+<a href="https://github.com/Bhudil/Instruments_Classifier">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhudil&repo=Instruments_Classifier&theme=tokyonight" alt="Instruments Image Classification System" />
 </a>
 <a href="https://github.com/Bhudil/TxtSumm">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhudil&repo=TxtSumm&theme=tokyonight" alt="Text Summarization Tool" />
